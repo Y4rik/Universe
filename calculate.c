@@ -59,4 +59,8 @@ Calculate(float Numeral, char Operation[4])
   }
 }
 
-...
+
+
+
+
+?
