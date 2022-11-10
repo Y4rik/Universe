@@ -58,3 +58,5 @@ Calculate(float Numeral, char Operation[4])
   printf("error operation");
   }
 }
+
+...
